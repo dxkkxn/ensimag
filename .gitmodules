@@ -1,0 +1,3 @@
+[submodule "second_year/sepc/ensimag-rappeldec"]
+	path = second_year/sepc/ensimag-rappeldec
+	url = https://github.com/gmounie/ensimag-rappeldec.git
