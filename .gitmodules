@@ -1,0 +1,3 @@
+[submodule "second_year/S2/openGL/volcano-project"]
+	path = second_year/S2/openGL/volcano-project
+	url = git@gitlab.com:cotterma/project3d.git
