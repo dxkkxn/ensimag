@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 af48ecc3a44d175b55a89f84f1574192037f669f Youssef Benjelloun <ybkstudies@gmail.com> 1698049218 +0200	clone: from gitlab.ensimag.fr:petrotf/3a-archi.git
+af48ecc3a44d175b55a89f84f1574192037f669f 13c19ac6a9c11d7b9c5094a53c6052d7d8395564 Youssef Benjelloun <ybkstudies@gmail.com> 1698054266 +0200	commit: gshare
+13c19ac6a9c11d7b9c5094a53c6052d7d8395564 0b1222c2b696c173e3dd46b1812a70e504f413ea Youssef Benjelloun <ybkstudies@gmail.com> 1698947780 +0100	commit: pht predictor done
+0b1222c2b696c173e3dd46b1812a70e504f413ea 0b1222c2b696c173e3dd46b1812a70e504f413ea Youssef Benjelloun <ybkstudies@gmail.com> 1704398011 +0100	Branch: renamed refs/heads/etudiants to refs/heads/pht-predictor

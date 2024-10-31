@@ -1,0 +1,61 @@
+0000000000000000000000000000000000000000 af48ecc3a44d175b55a89f84f1574192037f669f Youssef Benjelloun <ybkstudies@gmail.com> 1698049218 +0200	clone: from gitlab.ensimag.fr:petrotf/3a-archi.git
+af48ecc3a44d175b55a89f84f1574192037f669f 13c19ac6a9c11d7b9c5094a53c6052d7d8395564 Youssef Benjelloun <ybkstudies@gmail.com> 1698054266 +0200	commit: gshare
+13c19ac6a9c11d7b9c5094a53c6052d7d8395564 13c19ac6a9c11d7b9c5094a53c6052d7d8395564 Youssef Benjelloun <ybkstudies@gmail.com> 1698860308 +0100	reset: moving to HEAD
+13c19ac6a9c11d7b9c5094a53c6052d7d8395564 af48ecc3a44d175b55a89f84f1574192037f669f Youssef Benjelloun <ybkstudies@gmail.com> 1698860319 +0100	checkout: moving from etudiants to origin/etudiants
+af48ecc3a44d175b55a89f84f1574192037f669f 13c19ac6a9c11d7b9c5094a53c6052d7d8395564 Youssef Benjelloun <ybkstudies@gmail.com> 1698861078 +0100	checkout: moving from af48ecc3a44d175b55a89f84f1574192037f669f to etudiants
+13c19ac6a9c11d7b9c5094a53c6052d7d8395564 af48ecc3a44d175b55a89f84f1574192037f669f Youssef Benjelloun <ybkstudies@gmail.com> 1698861185 +0100	checkout: moving from etudiants to origin/etudiants
+af48ecc3a44d175b55a89f84f1574192037f669f 7c8f1e36ee6d78709f59b31936fb28897e2ae8b1 Youssef Benjelloun <ybkstudies@gmail.com> 1698867454 +0100	commit: basic skeleton code
+7c8f1e36ee6d78709f59b31936fb28897e2ae8b1 7c8f1e36ee6d78709f59b31936fb28897e2ae8b1 Youssef Benjelloun <ybkstudies@gmail.com> 1698867567 +0100	checkout: moving from 7c8f1e36ee6d78709f59b31936fb28897e2ae8b1 to basic-predictor
+7c8f1e36ee6d78709f59b31936fb28897e2ae8b1 7c8f1e36ee6d78709f59b31936fb28897e2ae8b1 Youssef Benjelloun <ybkstudies@gmail.com> 1698867633 +0100	checkout: moving from basic-predictor to gshare-predictor
+7c8f1e36ee6d78709f59b31936fb28897e2ae8b1 958d66243e91ab0ae1865548539aef3849e4e8b3 Youssef Benjelloun <ybkstudies@gmail.com> 1698873089 +0100	commit: gshare-finished
+958d66243e91ab0ae1865548539aef3849e4e8b3 13c19ac6a9c11d7b9c5094a53c6052d7d8395564 Youssef Benjelloun <ybkstudies@gmail.com> 1698873111 +0100	checkout: moving from gshare-predictor to etudiants
+13c19ac6a9c11d7b9c5094a53c6052d7d8395564 13c19ac6a9c11d7b9c5094a53c6052d7d8395564 Youssef Benjelloun <ybkstudies@gmail.com> 1698946928 +0100	reset: moving to HEAD
+13c19ac6a9c11d7b9c5094a53c6052d7d8395564 7c8f1e36ee6d78709f59b31936fb28897e2ae8b1 Youssef Benjelloun <ybkstudies@gmail.com> 1698946940 +0100	checkout: moving from etudiants to basic-predictor
+7c8f1e36ee6d78709f59b31936fb28897e2ae8b1 13c19ac6a9c11d7b9c5094a53c6052d7d8395564 Youssef Benjelloun <ybkstudies@gmail.com> 1698947728 +0100	checkout: moving from basic-predictor to etudiants
+13c19ac6a9c11d7b9c5094a53c6052d7d8395564 0b1222c2b696c173e3dd46b1812a70e504f413ea Youssef Benjelloun <ybkstudies@gmail.com> 1698947780 +0100	commit: pht predictor done
+0b1222c2b696c173e3dd46b1812a70e504f413ea 0b1222c2b696c173e3dd46b1812a70e504f413ea Youssef Benjelloun <ybkstudies@gmail.com> 1702285079 +0100	reset: moving to HEAD
+0b1222c2b696c173e3dd46b1812a70e504f413ea 0b1222c2b696c173e3dd46b1812a70e504f413ea Youssef Benjelloun <ybkstudies@gmail.com> 1702285099 +0100	checkout: moving from etudiants to simd
+0b1222c2b696c173e3dd46b1812a70e504f413ea cffcd07d58a9af2ed45d192ce6ac0ffbedd622f0 Youssef Benjelloun <ybkstudies@gmail.com> 1702285111 +0100	pull origin refs/heads/etudiants (start): checkout cffcd07d58a9af2ed45d192ce6ac0ffbedd622f0
+cffcd07d58a9af2ed45d192ce6ac0ffbedd622f0 e45125d06853a6af147cfb044683b34b4a25e694 Youssef Benjelloun <ybkstudies@gmail.com> 1702285111 +0100	pull origin refs/heads/etudiants (pick): gshare
+e45125d06853a6af147cfb044683b34b4a25e694 f0f02e51b2c05dff2dee8af3da99cfea5edcfc0c Youssef Benjelloun <ybkstudies@gmail.com> 1702285111 +0100	pull origin refs/heads/etudiants (pick): pht predictor done
+f0f02e51b2c05dff2dee8af3da99cfea5edcfc0c f0f02e51b2c05dff2dee8af3da99cfea5edcfc0c Youssef Benjelloun <ybkstudies@gmail.com> 1702285111 +0100	pull origin refs/heads/etudiants (finish): returning to refs/heads/simd
+f0f02e51b2c05dff2dee8af3da99cfea5edcfc0c f832d9cc8fe323301f2376a138f86603965f2956 Youssef Benjelloun <ybkstudies@gmail.com> 1703348964 +0100	commit: simd done
+f832d9cc8fe323301f2376a138f86603965f2956 0b1222c2b696c173e3dd46b1812a70e504f413ea Youssef Benjelloun <ybkstudies@gmail.com> 1703348983 +0100	checkout: moving from simd to etudiants
+0b1222c2b696c173e3dd46b1812a70e504f413ea cffcd07d58a9af2ed45d192ce6ac0ffbedd622f0 Youssef Benjelloun <ybkstudies@gmail.com> 1703349069 +0100	checkout: moving from etudiants to neural-network-pred
+cffcd07d58a9af2ed45d192ce6ac0ffbedd622f0 958d66243e91ab0ae1865548539aef3849e4e8b3 Youssef Benjelloun <ybkstudies@gmail.com> 1703389317 +0100	checkout: moving from neural-network-pred to gshare-predictor
+958d66243e91ab0ae1865548539aef3849e4e8b3 cffcd07d58a9af2ed45d192ce6ac0ffbedd622f0 Youssef Benjelloun <ybkstudies@gmail.com> 1703389396 +0100	checkout: moving from gshare-predictor to neural-network-pred
+cffcd07d58a9af2ed45d192ce6ac0ffbedd622f0 7c8f1e36ee6d78709f59b31936fb28897e2ae8b1 Youssef Benjelloun <ybkstudies@gmail.com> 1703389401 +0100	checkout: moving from neural-network-pred to basic-predictor
+7c8f1e36ee6d78709f59b31936fb28897e2ae8b1 958d66243e91ab0ae1865548539aef3849e4e8b3 Youssef Benjelloun <ybkstudies@gmail.com> 1703389409 +0100	checkout: moving from basic-predictor to gshare-predictor
+958d66243e91ab0ae1865548539aef3849e4e8b3 cffcd07d58a9af2ed45d192ce6ac0ffbedd622f0 Youssef Benjelloun <ybkstudies@gmail.com> 1703389509 +0100	checkout: moving from gshare-predictor to neural-network-pred
+cffcd07d58a9af2ed45d192ce6ac0ffbedd622f0 7a5fd691255073369fe2e1f19caeadf76d6b56f1 Youssef Benjelloun <ybkstudies@gmail.com> 1704397487 +0100	commit: perceptron predictor finished
+7a5fd691255073369fe2e1f19caeadf76d6b56f1 7c8f1e36ee6d78709f59b31936fb28897e2ae8b1 Youssef Benjelloun <ybkstudies@gmail.com> 1704397788 +0100	checkout: moving from neural-network-pred to basic-predictor
+7c8f1e36ee6d78709f59b31936fb28897e2ae8b1 6fbbc41ee025da6d3f011d88c4511fcc35c7e944 Youssef Benjelloun <ybkstudies@gmail.com> 1704397878 +0100	checkout: moving from basic-predictor to master
+6fbbc41ee025da6d3f011d88c4511fcc35c7e944 f832d9cc8fe323301f2376a138f86603965f2956 Youssef Benjelloun <ybkstudies@gmail.com> 1704397910 +0100	checkout: moving from master to simd
+f832d9cc8fe323301f2376a138f86603965f2956 0b1222c2b696c173e3dd46b1812a70e504f413ea Youssef Benjelloun <ybkstudies@gmail.com> 1704397962 +0100	checkout: moving from simd to etudiants
+0b1222c2b696c173e3dd46b1812a70e504f413ea 0000000000000000000000000000000000000000 Youssef Benjelloun <ybkstudies@gmail.com> 1704398011 +0100	Branch: renamed refs/heads/etudiants to refs/heads/pht-predictor
+0000000000000000000000000000000000000000 0b1222c2b696c173e3dd46b1812a70e504f413ea Youssef Benjelloun <ybkstudies@gmail.com> 1704398011 +0100	Branch: renamed refs/heads/etudiants to refs/heads/pht-predictor
+0b1222c2b696c173e3dd46b1812a70e504f413ea cffcd07d58a9af2ed45d192ce6ac0ffbedd622f0 Youssef Benjelloun <ybkstudies@gmail.com> 1704400367 +0100	checkout: moving from pht-predictor to etudiants
+cffcd07d58a9af2ed45d192ce6ac0ffbedd622f0 0b1222c2b696c173e3dd46b1812a70e504f413ea Youssef Benjelloun <ybkstudies@gmail.com> 1704402099 +0100	checkout: moving from etudiants to pht-predictor
+0b1222c2b696c173e3dd46b1812a70e504f413ea cffcd07d58a9af2ed45d192ce6ac0ffbedd622f0 Youssef Benjelloun <ybkstudies@gmail.com> 1704402117 +0100	checkout: moving from pht-predictor to etudiants
+cffcd07d58a9af2ed45d192ce6ac0ffbedd622f0 6fbbc41ee025da6d3f011d88c4511fcc35c7e944 Youssef Benjelloun <ybkstudies@gmail.com> 1704402127 +0100	checkout: moving from etudiants to master
+6fbbc41ee025da6d3f011d88c4511fcc35c7e944 958d66243e91ab0ae1865548539aef3849e4e8b3 Youssef Benjelloun <ybkstudies@gmail.com> 1704402136 +0100	checkout: moving from master to gshare-predictor
+958d66243e91ab0ae1865548539aef3849e4e8b3 cffcd07d58a9af2ed45d192ce6ac0ffbedd622f0 Youssef Benjelloun <ybkstudies@gmail.com> 1704402155 +0100	checkout: moving from gshare-predictor to etudiants
+cffcd07d58a9af2ed45d192ce6ac0ffbedd622f0 0b1222c2b696c173e3dd46b1812a70e504f413ea Youssef Benjelloun <ybkstudies@gmail.com> 1704402164 +0100	checkout: moving from etudiants to pht-predictor
+0b1222c2b696c173e3dd46b1812a70e504f413ea 7a5fd691255073369fe2e1f19caeadf76d6b56f1 Youssef Benjelloun <ybkstudies@gmail.com> 1704402192 +0100	checkout: moving from pht-predictor to neural-network-pred
+7a5fd691255073369fe2e1f19caeadf76d6b56f1 cffcd07d58a9af2ed45d192ce6ac0ffbedd622f0 Youssef Benjelloun <ybkstudies@gmail.com> 1704402673 +0100	checkout: moving from neural-network-pred to dual-pred
+cffcd07d58a9af2ed45d192ce6ac0ffbedd622f0 1d0babf2ff2b4fa486ec24b251289bbde2479232 Youssef Benjelloun <ybkstudies@gmail.com> 1704402950 +0100	commit: dual predictor
+1d0babf2ff2b4fa486ec24b251289bbde2479232 f9ea03657eababb401bb0340dff73f3e76948476 Youssef Benjelloun <ybkstudies@gmail.com> 1704403801 +0100	commit (amend): dual predictor
+f9ea03657eababb401bb0340dff73f3e76948476 cffcd07d58a9af2ed45d192ce6ac0ffbedd622f0 Youssef Benjelloun <ybkstudies@gmail.com> 1704403808 +0100	checkout: moving from dual-pred to etudiants
+cffcd07d58a9af2ed45d192ce6ac0ffbedd622f0 f9ea03657eababb401bb0340dff73f3e76948476 Youssef Benjelloun <ybkstudies@gmail.com> 1704403822 +0100	checkout: moving from etudiants to dual-pred
+f9ea03657eababb401bb0340dff73f3e76948476 75227aba48501168affffb739ba3297da39bab7a Youssef Benjelloun <ybkstudies@gmail.com> 1704473622 +0100	commit: bug fix et stats script
+75227aba48501168affffb739ba3297da39bab7a 7a5fd691255073369fe2e1f19caeadf76d6b56f1 Youssef Benjelloun <ybkstudies@gmail.com> 1704475619 +0100	checkout: moving from dual-pred to neural-network-pred
+7a5fd691255073369fe2e1f19caeadf76d6b56f1 75227aba48501168affffb739ba3297da39bab7a Youssef Benjelloun <ybkstudies@gmail.com> 1704478014 +0100	checkout: moving from neural-network-pred to dual-pred
+75227aba48501168affffb739ba3297da39bab7a cffcd07d58a9af2ed45d192ce6ac0ffbedd622f0 Youssef Benjelloun <ybkstudies@gmail.com> 1704478104 +0100	checkout: moving from dual-pred to etudiants
+cffcd07d58a9af2ed45d192ce6ac0ffbedd622f0 8e7e8424bd94545776ecb2951903883d6230e018 Youssef Benjelloun <ybkstudies@gmail.com> 1704478304 +0100	commit: report done
+8e7e8424bd94545776ecb2951903883d6230e018 2d535441c87e57571cdeaa34342cedc8bc82fb13 Youssef Benjelloun <ybkstudies@gmail.com> 1704478631 +0100	commit: readme
+2d535441c87e57571cdeaa34342cedc8bc82fb13 f832d9cc8fe323301f2376a138f86603965f2956 Youssef Benjelloun <ybkstudies@gmail.com> 1704479187 +0100	checkout: moving from etudiants to simd
+f832d9cc8fe323301f2376a138f86603965f2956 8371d87365dd3caac8107558773dd9295cff79a9 Youssef Benjelloun <ybkstudies@gmail.com> 1704482361 +0100	commit: perf eval done
+8371d87365dd3caac8107558773dd9295cff79a9 2d535441c87e57571cdeaa34342cedc8bc82fb13 Youssef Benjelloun <ybkstudies@gmail.com> 1704482401 +0100	checkout: moving from simd to etudiants
+2d535441c87e57571cdeaa34342cedc8bc82fb13 38b014b5b376660725c3a440e278bd7fcc0c5528 Youssef Benjelloun <ybkstudies@gmail.com> 1704482612 +0100	commit: update readme
+38b014b5b376660725c3a440e278bd7fcc0c5528 8371d87365dd3caac8107558773dd9295cff79a9 Youssef Benjelloun <ybkstudies@gmail.com> 1704482772 +0100	checkout: moving from etudiants to simd
+8371d87365dd3caac8107558773dd9295cff79a9 38b014b5b376660725c3a440e278bd7fcc0c5528 Youssef Benjelloun <ybkstudies@gmail.com> 1704482951 +0100	checkout: moving from simd to etudiants

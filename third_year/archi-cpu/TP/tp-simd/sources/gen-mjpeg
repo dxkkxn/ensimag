@@ -1,0 +1,37 @@
+#!/bin/zsh 
+for conv in conv-sse-x16 ; do # conv-float conv-unrolled-float conv-sse ; do
+	rm $conv
+	make CONV=$conv
+	objdump --disassemble=YCrCb_to_ARGB mjpeg > $conv.dis
+	for i in $(seq 0 9) ; do 
+		/usr/bin/time ./mjpeg ../tp2_src/ice_age_256x144_444.mjpeg -1 x > /dev/null|& grep real >>& $conv
+	done
+done
+exit
+
+make CONV=conv-float
+time ./mjpeg ../tp2_src/ice_age_256x144_444.mjpeg -1 x
+
+make CONV=conv-int
+time ./mjpeg ../tp2_src/ice_age_256x144_444.mjpeg -1 x
+
+make CONV=conv-unrolled-float
+time ./mjpeg ../tp2_src/ice_age_256x144_444.mjpeg -1 x
+
+make CONV=conv-unrolled-int
+time ./mjpeg ../tp2_src/ice_age_256x144_444.mjpeg -1 x
+
+make CONV=conv-loop4
+time ./mjpeg ../tp2_src/ice_age_256x144_444.mjpeg -1 x
+
+make CONV=conv-v4si
+time ./mjpeg ../tp2_src/ice_age_256x144_444.mjpeg -1 x
+
+make CONV=conv-mmx
+time ./mjpeg ../tp2_src/ice_age_256x144_444.mjpeg -1 x
+
+make CONV=conv-sse
+time ./mjpeg ../tp2_src/ice_age_256x144_444.mjpeg -1 x
+
+make CONV=conv-sse-x16
+time ./mjpeg ../tp2_src/ice_age_256x144_444.mjpeg -1 x

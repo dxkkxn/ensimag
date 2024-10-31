@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 0b1222c2b696c173e3dd46b1812a70e504f413ea Youssef Benjelloun <ybkstudies@gmail.com> 1702285099 +0100	branch: Created from etudiants
+0b1222c2b696c173e3dd46b1812a70e504f413ea f0f02e51b2c05dff2dee8af3da99cfea5edcfc0c Youssef Benjelloun <ybkstudies@gmail.com> 1702285111 +0100	pull origin refs/heads/etudiants (finish): refs/heads/simd onto cffcd07d58a9af2ed45d192ce6ac0ffbedd622f0
+f0f02e51b2c05dff2dee8af3da99cfea5edcfc0c f832d9cc8fe323301f2376a138f86603965f2956 Youssef Benjelloun <ybkstudies@gmail.com> 1703348964 +0100	commit: simd done
+f832d9cc8fe323301f2376a138f86603965f2956 8371d87365dd3caac8107558773dd9295cff79a9 Youssef Benjelloun <ybkstudies@gmail.com> 1704482361 +0100	commit: perf eval done

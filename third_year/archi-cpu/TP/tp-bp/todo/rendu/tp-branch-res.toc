@@ -1,0 +1,22 @@
+\babel@toc {french}{}\relax 
+\contentsline {section}{\numberline {1}Identification}{1}{}%
+\contentsline {section}{\numberline {2}Informations}{1}{}%
+\contentsline {section}{\numberline {3}Prédicteur $n$ modal : conception et résultats}{1}{}%
+\contentsline {subsection}{\numberline {3.1}Conception}{1}{}%
+\contentsline {subsection}{\numberline {3.2}Résultats}{1}{}%
+\contentsline {subsection}{\numberline {3.3}Analyse}{2}{}%
+\contentsline {section}{\numberline {4}G Share}{2}{}%
+\contentsline {subsection}{\numberline {4.1}Conception}{2}{}%
+\contentsline {subsection}{\numberline {4.2}Résultats}{2}{}%
+\contentsline {subsection}{\numberline {4.3}Analyse}{3}{}%
+\contentsline {section}{\numberline {5}Predictor PHT}{3}{}%
+\contentsline {subsection}{\numberline {5.1}Conception}{3}{}%
+\contentsline {subsection}{\numberline {5.2}Analyse}{4}{}%
+\contentsline {section}{\numberline {6}Dual predictor}{5}{}%
+\contentsline {subsection}{\numberline {6.1}Conception}{5}{}%
+\contentsline {subsection}{\numberline {6.2}Résultats}{5}{}%
+\contentsline {subsection}{\numberline {6.3}Analyse}{6}{}%
+\contentsline {section}{\numberline {7}Perceptron}{6}{}%
+\contentsline {subsection}{\numberline {7.1}Conception}{6}{}%
+\contentsline {subsection}{\numberline {7.2}Résultats}{7}{}%
+\contentsline {subsection}{\numberline {7.3}Analyse}{7}{}%

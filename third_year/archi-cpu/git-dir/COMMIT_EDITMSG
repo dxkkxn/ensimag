@@ -1,0 +1,28 @@
+update readme
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch etudiants
+# Your branch is ahead of 'origin/etudiants' by 2 commits.
+#   (use "git push" to publish your local commits)
+#
+# Changes to be committed:
+#	modified:   readme.md
+#
+# Untracked files:
+#	TP/tp-bp/sim/main.o
+#	TP/tp-bp/sim/predictor
+#	TP/tp-bp/sim/predictor.o
+#	TP/tp-bp/todo/rendu/rendu-bp.zip
+#	TP/tp-bp/todo/rendu/tp-branch-res.aux
+#	TP/tp-bp/todo/rendu/tp-branch-res.log
+#	TP/tp-bp/todo/rendu/tp-branch-res.toc
+#	TP/tp-simd/tp2_src_etd/conv-float.o
+#	TP/tp-simd/tp2_src_etd/conv-int.o
+#	TP/tp-simd/tp2_src_etd/conv-unrolled4-float-a-trou.o
+#	TP/tp-simd/tp2_src_etd/mjpeg-conv-sse-a-trou
+#	TP/tp-simd/tp2_src_etd/mjpeg-conv-unrolled4-float-a-trou
+#	TP/tp-simd/tp2_src_etd/mjpeg-float
+#	TP/tp-simd/tp2_src_etd/mjpeg-int
+#

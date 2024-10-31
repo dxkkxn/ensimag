@@ -1,0 +1,32 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = git@gitlab.ensimag.fr:petrotf/3a-archi.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "pht-predictor"]
+	remote = origin
+	merge = refs/heads/etudiants
+[pull]
+	rebase = true
+[branch "simd"]
+	remote = origin
+	merge = refs/heads/etudiants
+[branch "neural-network-pred"]
+	remote = origin
+	merge = refs/heads/etudiants
+[remote]
+	pushDefault = git@gitlab.ensimag.fr:benjelly/3a-archi.git
+[remote "origin-mine"]
+	url = git@gitlab.ensimag.fr:benjelly/3a-archi.git
+	fetch = +refs/heads/*:refs/remotes/origin-mine/*
+[branch "master"]
+	remote = origin
+	merge = refs/heads/master
+	pushRemote = origin
+[branch "etudiants"]
+	remote = origin
+	merge = refs/heads/etudiants
+	pushRemote = origin
