@@ -1,0 +1,17 @@
+
+apiVersion: v1
+kind: Pod
+metadata:
+   name: listener-pod
+spec:
+   containers:
+   - name: listener-name-container
+     image: listener
+     imagePullPolicy: Never
+     ports:
+     - containerPort: 5000
+   - name: snitcher-name-container
+     image: snitcher
+     imagePullPolicy: Never
+     ports:
+     - containerPort: 5000
