@@ -1,3 +1,6 @@
 [submodule "second_year/sepc/ensimag-rappeldec"]
 	path = second_year/sepc/ensimag-rappeldec
 	url = https://github.com/gmounie/ensimag-rappeldec.git
+[submodule "third_year/archi-cpu"]
+	path = third_year/archi-cpu
+	url = git@gitlab.ensimag.fr:benjelly/3a-archi.git
