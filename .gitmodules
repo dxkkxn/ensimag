@@ -19,3 +19,6 @@
 [submodule "2A/grenoble-eat"]
 	path = 2A/grenoble-eat
 	url = git@github.com:dxkkxn/GrenobleEat.git
+[submodule "2A/ensios"]
+	path = 2A/ensios
+	url = git@github.com:dxkkxn/ensios.git
