@@ -7,3 +7,6 @@
 [submodule "3A/trade-mirror"]
 	path = 3A/trade-mirror
 	url = git@github.com:dxkkxn/trademirror.git
+[submodule "3A/dismake"]
+	path = 3A/dismake
+	url = git@github.com:dxkkxn/dismake.git
