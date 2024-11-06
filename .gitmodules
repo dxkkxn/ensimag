@@ -1,6 +1,6 @@
 [submodule "2A/volcano-project"]
 	path = 2A/volcano-project
-	url = git@gitlab.com:cotterma/project3d.git
+	url = https://gitlab.com/cotterma/project3d
 [submodule "2A/werewolf-project"]
 	path = 2A/werewolf-project
 	url = git@github.com:dxkkxn/werewolf.git
