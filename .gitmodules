@@ -1,6 +1,9 @@
-[submodule "second_year/S2/openGL/volcano-project"]
-	path = second_year/S2/openGL/volcano-project
+[submodule "2A/volcano-project"]
+	path = 2A/volcano-project
 	url = git@gitlab.com:cotterma/project3d.git
 [submodule "2A/werewolf-project"]
 	path = 2A/werewolf-project
 	url = git@github.com:dxkkxn/werewolf.git
+[submodule "3A/trade-mirror"]
+	path = 3A/trade-mirror
+	url = git@github.com:dxkkxn/trademirror.git
