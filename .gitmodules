@@ -22,3 +22,6 @@
 [submodule "2A/ensios"]
 	path = 2A/ensios
 	url = git@github.com:dxkkxn/ensios.git
+[submodule "2A/ensishell"]
+	path = 2A/ensishell
+	url = git@github.com:dxkkxn/ensishell.git
