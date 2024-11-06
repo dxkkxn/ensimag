@@ -10,3 +10,6 @@
 [submodule "3A/dismake"]
 	path = 3A/dismake
 	url = git@github.com:dxkkxn/dismake.git
+[submodule "3A/xinul"]
+	path = 3A/xinul
+	url = git@github.com:dxkkxn/dismake.git
