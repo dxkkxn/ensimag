@@ -13,3 +13,6 @@
 [submodule "3A/xinul"]
 	path = 3A/xinul
 	url = git@github.com:dxkkxn/dismake.git
+[submodule "2A/blobwar"]
+	path = 2A/blobwar
+	url = git@github.com:dxkkxn/blobwar.git
