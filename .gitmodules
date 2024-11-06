@@ -25,3 +25,6 @@
 [submodule "2A/ensishell"]
 	path = 2A/ensishell
 	url = git@github.com:dxkkxn/ensishell.git
+[submodule "2A/malloc"]
+	path = 2A/malloc
+	url = git@github.com:dxkkxn/malloc.git
