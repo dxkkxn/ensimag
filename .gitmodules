@@ -16,3 +16,6 @@
 [submodule "2A/blobwar"]
 	path = 2A/blobwar
 	url = git@github.com:dxkkxn/blobwar.git
+[submodule "2A/grenoble-eat"]
+	path = 2A/grenoble-eat
+	url = git@github.com:dxkkxn/GrenobleEat.git
